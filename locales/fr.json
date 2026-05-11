@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos",
+    "contact": "Contact",
+    "cart": "Panier",
+    "search": "Rechercher des produits..."
+  },
+  "hero": {
+    "title": "Expérience du Luxe Redéfini",
+    "subtitle": "Découvrez notre collection exclusive de montres de luxe, lunettes de soleil premium et portefeuilles de créateurs",
+    "cta": "Acheter Maintenant",
+    "explore": "Explorer la Collection"
+  },
+  "products": {
+    "watches": "Montres de Luxe",
+    "sunglasses": "Lunettes Haut de Gamme",
+    "wallets": "Portefeuilles de Créateurs",
+    "inStock": "En Stock",
+    "outOfStock": "Rupture de Stock",
+    "addToCart": "Ajouter au Panier",
+    "rating": "Évaluation",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "viewDetails": "Voir Détails",
+    "description": "Description"
+  },
+  "cart": {
+    "title": "Panier d'Achat",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "delivery": "Frais de Livraison",
+    "total": "Total",
+    "checkout": "Procéder au Paiement",
+    "continue": "Continuer vos Achats",
+    "remove": "Supprimer",
+    "update": "Mettre à Jour la Quantité"
+  },
+  "checkout": {
+    "title": "Commande",
+    "fullName": "Nom Complet",
+    "phone": "Numéro de Téléphone",
+    "city": "Ville",
+    "address": "Adresse Complète",
+    "delivery": "Méthode de Livraison",
+    "homeDelivery": "Livraison à Domicile",
+    "officePickup": "Retrait au Bureau",
+    "confirmOrder": "Confirmer la Commande",
+    "whatsapp": "Commander via WhatsApp",
+    "backToCart": "Retour au Panier",
+    "selectCity": "Sélectionner une ville"
+  },
+  "cities": {
+    "cairo": "Le Caire",
+    "giza": "Giza",
+    "alexandria": "Alexandrie",
+    "mansoura": "Mansourah",
+    "aswan": "Assouan",
+    "hurghada": "Hurghada"
+  },
+  "sections": {
+    "popular": "Produits Populaires",
+    "categories": "Acheter par Catégorie",
+    "about": "À Propos d'Isaac Store",
+    "aboutText": "Nous vous offrons la plus belle sélection de montres de luxe, lunettes de soleil premium et portefeuilles de créateurs. Chaque produit est soigneusement sélectionné pour assurer l'excellence en qualité, design et savoir-faire.",
+    "contact": "Nous Contacter",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "address": "Adresse"
+  },
+  "notifications": {
+    "added": "Ajouté au panier avec succès!",
+    "removed": "Supprimé du panier",
+    "updated": "Panier mis à jour",
+    "success": "Commande confirmée!",
+    "error": "Une erreur s'est produite"
+  },
+  "language": "Langue"
+}
